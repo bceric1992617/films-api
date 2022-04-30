@@ -1,0 +1,108 @@
+body, ul, ul li, a, p, input, h1, h2, h3, h4, h5, h6, form {margin:0; padding:0}
+body {font-size:14px}
+ul {list-style:none}
+a {text-decoration:none}
+a:hover {text-decoration:underline}
+
+
+/* 手机LOGOBAR */
+.logoBar p {float:left; padding-bottom:16px}
+.logo {text-align:center; font-size:26px; width:78%}
+.searchBtn {width:9%}
+
+/* 导航分类 */
+#body, #head, #foot ,#types, #contries, #film-types, #years, #search {clear:both}
+#body, #head, #foot, #nav, .pagination, .videoStyle, .playList {margin:0 auto; width:1024px}
+#body div {float:left; margin-bottom:10px}
+#head {height:155px}
+#head ul {float:left; display:block;margin-bottom:10px}
+#head ul li{float:left}
+#head ul li a {margin-left:6px; margin-bottom:3px; line-height:25px; text-align:center; padding:0 7px; height:25px; display:block;}
+
+.index {color:#000}
+.index:hover {color:#000;text-decoration: none;}
+.searchBtnForPc {width:54px}
+.navDefault {color:#fff; background-color:#258dcd; border-radius:4px}
+#nav {margin-bottom:10px}
+.search {float:right;margin-top:-10px}
+.nav {float:left;}
+.mobileMenu {border: 1px solid #ccc; opacity:0.9; z-index:30000; position:absolute; top:50px; left:-50%; height:100%; width:50%; background-color:#fff; border-radius:2px}
+#mobileCountryMenu ul li {float:left; width:none; height:26px; line-height:26px; padding:0 5px; margin-bottom:5px}
+
+
+/* 分页 */
+.pagination {height:25px;display:block;margin:15px auto; padding:0 5px}
+
+/* 详情页 */
+.pic {width:220px;height:260px;}
+.content p {margin:5px 0}
+.content, .pic, .detail, .link {float:left}
+.link {margin-top:10px; width:100%}
+.downLink {border-bottom-style:solid;border-bottom-width:1px;border-bottom-color:#000; margin-bottom:10px}
+.link p {margin:5px 0;}
+.detail {width:100%;margin-bottom:10px}
+.downLoadLink {margin-left:16px; word-break:break-all;}
+.contentKeyWord {font-size:14px; font-weight:normal; display:inline-block}
+
+
+/* 播放页 */
+.videoStyle {margin-top:10px}
+.videoStyle h2 {text-align:center}
+.videoStyle p {color:red;font-size:20px}
+.videoStyle h5,.videoStyle p{width:100%; text-align:center}
+.tab {float:left; margin-top:10px}
+.tab li {float:left; padding:5px 10px}
+.playList {padding-top:10px;}
+.tabclass {width:100%}
+
+/* 首页和媒体分类页面 */
+#body #left-side {width:27%; border:1px solid black;float:left}
+#body #mid-side {width:42%; border:1px solid black; margin:0 25px;float:left}
+#body ul {border:1px solid #ccc; border-radius:2px}
+#body ul li {padding:0 5px;height:20px; overflow:hidden}
+#body ul>:first-child {color:gray; border-bottom-style:solid;border-bottom-width:1px;border-bottom-color:#ccc}
+#body div {padding:0 6px}
+#body h2, #head h2{font-size:14px;font-weight:normal;padding:2px 0}
+
+
+/* 更多信息 */
+.msg {width:100%; float:left}
+.searchMsg {width:100%; border:1px solid #ccc; float:left}
+.searchMsg li p,h4,.wrongMsg, .page li{float:left}
+.douban {text-align:left}
+.year {text-align:right}
+.borderStyle {border-bottom-style:solid;border-bottom-width:1px;border-bottom-color:#ccc;}
+
+/* 搜索 */
+#mobileSearch {z-index:1000;position:absolute;top:-55px;right:345px;width:0%;height:50px;}
+.mobileTypeBtn {padding:5px;margin-bottom:5px}
+.search form {padding-left:5px;margin-bottom:20px}
+.search {float:right;margin-top:-10px}
+.searchImg {float:right;height:20px;width:17px}
+.container {height:34px;width:200px;border:#ccc solid 1px; border-radius:3px}
+@media screen and (max-width:767px){
+    .container {width:300px}
+    /* .searchBtn {float:left;margin-top:-5px;margin-left:5px} */
+    .search form {margin-bottom:30px}
+    #nav {height:140px;border-bottom-style:solid;border-bottom-width:1px;border-bottom-color:#ccc;width:100%; margin-bottom:20px; float:left}
+    #body, #foot, .videoStyle, .pagination, .playList {width:100%; float:left}
+    .pagination {float:left}
+}
+
+@media screen and (min-width:768px){
+    .container {width:200px}
+}
+
+
+/* 模块 */
+.relaseTime {text-align:right; float:right}
+.more {float:right}
+.name ,.nameInfo{float:left}
+.hot, .new, .recommend {margin-bottom:5px}
+.new h2 {float:left}
+.new a {float:right}
+
+/* 底部 */
+#foot p{width:100%; text-align:left; color:gray; padding:0 10px}
+#foot ul{float:left;width:100%;margin-left:5px}
+#foot ul li{float:left;padding:5px}

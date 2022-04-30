@@ -1,0 +1,439 @@
+[Thu Jul 02 09:02:52.016495 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jul 02 09:02:52.016849 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Thu Jul 02 09:02:52.051694 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Thu Jul 02 09:02:52.051778 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Thu Jul 02 16:37:28.965234 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Thu Jul 02 16:37:29.033937 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jul 02 16:37:29.034219 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Thu Jul 02 16:37:29.034779 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Thu Jul 02 16:37:29.034790 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Thu Jul 02 16:56:33.401682 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Thu Jul 02 16:56:33.444500 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jul 02 16:56:33.444782 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Thu Jul 02 16:56:33.445228 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Thu Jul 02 16:56:33.445241 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Thu Jul 02 16:57:23.789147 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Thu Jul 02 16:57:23.813436 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jul 02 16:57:23.813636 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Thu Jul 02 16:57:23.813948 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Thu Jul 02 16:57:23.813963 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Thu Jul 02 16:57:27.528960 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Thu Jul 02 16:57:27.549193 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jul 02 16:57:27.549319 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Thu Jul 02 16:57:27.549580 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Thu Jul 02 16:57:27.549592 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Thu Jul 02 17:02:32.729797 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Thu Jul 02 17:02:32.757590 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jul 02 17:02:32.757788 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Thu Jul 02 17:02:32.758188 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Thu Jul 02 17:02:32.758200 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Thu Jul 02 17:02:45.497957 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Thu Jul 02 17:02:45.529409 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jul 02 17:02:45.529700 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Thu Jul 02 17:02:45.530603 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Thu Jul 02 17:02:45.530623 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Thu Jul 02 17:02:49.232314 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Thu Jul 02 17:02:49.248671 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jul 02 17:02:49.248816 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Thu Jul 02 17:02:49.249055 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Thu Jul 02 17:02:49.249067 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Thu Jul 02 17:03:58.477500 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Thu Jul 02 17:03:58.512536 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jul 02 17:03:58.512817 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Thu Jul 02 17:03:58.513174 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Thu Jul 02 17:03:58.513207 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Thu Jul 02 17:04:01.585955 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Thu Jul 02 17:04:01.605556 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jul 02 17:04:01.605657 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Thu Jul 02 17:04:01.605859 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Thu Jul 02 17:04:01.605876 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Thu Jul 02 17:04:15.371333 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Thu Jul 02 17:04:15.388964 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jul 02 17:04:15.389110 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Thu Jul 02 17:04:15.389397 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Thu Jul 02 17:04:15.389409 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Thu Jul 02 17:04:44.466344 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Thu Jul 02 17:04:44.487281 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jul 02 17:04:44.487441 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Thu Jul 02 17:04:44.487721 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Thu Jul 02 17:04:44.487732 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Thu Jul 02 17:04:52.531205 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Thu Jul 02 17:04:52.553962 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jul 02 17:04:52.554130 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Thu Jul 02 17:04:52.554425 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Thu Jul 02 17:04:52.554437 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Thu Jul 02 17:05:02.637034 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Thu Jul 02 17:05:02.655862 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jul 02 17:05:02.656004 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Thu Jul 02 17:05:02.656298 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Thu Jul 02 17:05:02.656310 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Thu Jul 02 17:05:08.419170 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Thu Jul 02 17:05:08.437433 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jul 02 17:05:08.437614 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Thu Jul 02 17:05:08.438264 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Thu Jul 02 17:05:08.438281 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Thu Jul 02 17:13:00.714070 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Thu Jul 02 17:13:00.730190 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jul 02 17:13:00.730436 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Thu Jul 02 17:13:00.730783 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Thu Jul 02 17:13:00.730795 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Thu Jul 02 17:13:18.678057 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Thu Jul 02 17:13:18.695458 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jul 02 17:13:18.695629 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Thu Jul 02 17:13:18.695890 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Thu Jul 02 17:13:18.695902 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Thu Jul 02 17:13:22.657448 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Thu Jul 02 17:13:22.680611 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jul 02 17:13:22.680720 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Thu Jul 02 17:13:22.681168 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Thu Jul 02 17:13:22.681210 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Thu Jul 02 19:54:04.505115 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Thu Jul 02 19:54:04.533487 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jul 02 19:54:04.533695 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Thu Jul 02 19:54:04.534088 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Thu Jul 02 19:54:04.534100 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Thu Jul 02 19:59:26.393097 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Thu Jul 02 19:59:26.422950 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jul 02 19:59:26.423178 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Thu Jul 02 19:59:26.423503 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Thu Jul 02 19:59:26.423515 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Thu Jul 02 20:07:34.811280 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Thu Jul 02 20:07:34.836686 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jul 02 20:07:34.836874 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Thu Jul 02 20:07:34.837197 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Thu Jul 02 20:07:34.837209 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Thu Jul 02 20:08:04.647776 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Thu Jul 02 20:08:04.667554 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jul 02 20:08:04.667701 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Thu Jul 02 20:08:04.668015 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Thu Jul 02 20:08:04.668031 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Thu Jul 02 20:08:56.860809 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Thu Jul 02 20:08:56.888405 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jul 02 20:08:56.888573 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Thu Jul 02 20:08:56.888918 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Thu Jul 02 20:08:56.888951 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Thu Jul 02 20:09:24.192659 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Thu Jul 02 20:09:24.224750 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jul 02 20:09:24.224897 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Thu Jul 02 20:09:24.225280 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Thu Jul 02 20:09:24.225293 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Thu Jul 02 20:09:27.983920 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Thu Jul 02 20:09:28.001996 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jul 02 20:09:28.002207 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Thu Jul 02 20:09:28.002627 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Thu Jul 02 20:09:28.002638 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Thu Jul 02 20:09:55.635433 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Thu Jul 02 20:09:55.658741 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jul 02 20:09:55.658870 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Thu Jul 02 20:09:55.659239 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Thu Jul 02 20:09:55.659258 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Thu Jul 02 21:00:11.895962 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Thu Jul 02 21:00:11.935655 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jul 02 21:00:11.935919 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Thu Jul 02 21:00:11.936459 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Thu Jul 02 21:00:11.936498 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Thu Jul 02 21:00:17.765883 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Thu Jul 02 21:00:17.783842 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jul 02 21:00:17.784012 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Thu Jul 02 21:00:17.784360 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Thu Jul 02 21:00:17.784372 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Thu Jul 02 21:00:24.278777 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Thu Jul 02 21:00:24.294792 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jul 02 21:00:24.294932 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Thu Jul 02 21:00:24.295265 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Thu Jul 02 21:00:24.295277 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Thu Jul 02 21:00:27.035925 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Thu Jul 02 21:00:27.056983 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jul 02 21:00:27.057203 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Thu Jul 02 21:00:27.057509 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Thu Jul 02 21:00:27.057523 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 00:21:11.526738 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/www/wwwroot/films] does not exist
+[Fri Jul 03 00:21:11.552103 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 00:21:11.552383 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 00:21:11.552709 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 00:21:11.552720 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 00:21:33.587524 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jul 03 00:21:33.605438 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 00:21:33.605559 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 00:21:33.605893 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 00:21:33.605909 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 00:21:41.855067 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jul 03 00:21:41.883672 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 00:21:41.883810 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 00:21:41.884070 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 00:21:41.884099 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 00:25:37.018755 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jul 03 00:25:37.048155 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 00:25:37.053993 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 00:25:37.054439 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 00:25:37.054451 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 00:25:52.438762 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jul 03 00:25:52.462047 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 00:25:52.462271 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 00:25:52.462510 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 00:25:52.462520 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 00:26:25.511767 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jul 03 00:26:25.533704 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 00:26:25.533874 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 00:26:25.534140 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 00:26:25.534152 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 00:26:29.657517 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jul 03 00:26:29.674308 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 00:26:29.674408 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 00:26:29.674607 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 00:26:29.674633 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 00:26:53.786474 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jul 03 00:26:53.807263 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 00:26:53.807399 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 00:26:53.807701 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 00:26:53.807713 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 00:27:21.068552 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jul 03 00:27:21.094053 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 00:27:21.094245 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 00:27:21.094622 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 00:27:21.094633 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 00:27:59.475526 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jul 03 00:27:59.496492 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 00:27:59.496648 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 00:27:59.496949 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 00:27:59.496975 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 00:28:02.438001 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jul 03 00:28:02.460138 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 00:28:02.460370 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 00:28:02.460692 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 00:28:02.460708 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 00:28:16.818831 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jul 03 00:28:16.842846 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 00:28:16.843007 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 00:28:16.843347 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 00:28:16.843359 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 00:28:21.205908 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jul 03 00:28:21.220888 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 00:28:21.221001 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 00:28:21.221283 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 00:28:21.221294 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 00:28:50.240483 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jul 03 00:28:50.259875 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 00:28:50.260052 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 00:28:50.260441 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 00:28:50.260453 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 00:28:55.890277 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jul 03 00:28:55.906386 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 00:28:55.906485 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 00:28:55.906810 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 00:28:55.906822 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 00:28:59.282236 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jul 03 00:28:59.306974 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 00:28:59.307177 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 00:28:59.307505 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 00:28:59.307516 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 00:29:21.147555 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jul 03 00:29:21.169842 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 00:29:21.170013 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 00:29:21.170417 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 00:29:21.170430 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 00:29:21.257331 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jul 03 00:29:21.273059 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 00:29:21.273267 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 00:29:21.273665 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 00:29:21.273679 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 00:29:29.012527 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jul 03 00:29:29.029634 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 00:29:29.029820 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 00:29:29.030060 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 00:29:29.030115 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 00:29:31.688474 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jul 03 00:29:31.702935 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 00:29:31.703039 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 00:29:31.703303 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 00:29:31.703315 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 00:30:20.140806 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jul 03 00:30:20.174355 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 00:30:20.174558 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 00:30:20.174917 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 00:30:20.174929 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 00:30:27.695249 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jul 03 00:30:27.713443 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 00:30:27.713584 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 00:30:27.713985 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 00:30:27.713996 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 00:30:30.199279 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jul 03 00:30:30.216392 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 00:30:30.216482 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 00:30:30.216777 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 00:30:30.216836 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 00:31:19.097998 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jul 03 00:31:19.117101 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 00:31:19.117328 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 00:31:19.117696 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 00:31:19.117708 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 00:31:22.514256 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jul 03 00:31:22.532174 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 00:31:22.532307 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 00:31:22.532728 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 00:31:22.532740 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 00:33:27.278680 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jul 03 00:33:27.307504 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 00:33:27.307748 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 00:33:27.308101 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 00:33:27.308117 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 00:33:32.940603 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jul 03 00:33:32.962444 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 00:33:32.962550 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 00:33:32.962837 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 00:33:32.962860 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 00:33:36.681897 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jul 03 00:33:36.705303 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 00:33:36.705426 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 00:33:36.705758 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 00:33:36.705769 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 00:34:02.429166 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jul 03 00:34:02.447168 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 00:34:02.447642 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 00:34:02.448016 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 00:34:02.448028 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 00:34:05.864489 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jul 03 00:34:05.881336 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 00:34:05.881480 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 00:34:05.881810 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 00:34:05.881822 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 00:34:16.746506 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jul 03 00:34:16.761329 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 00:34:16.761452 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 00:34:16.761722 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 00:34:16.761733 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 00:35:46.922582 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jul 03 00:35:46.957444 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 00:35:46.957646 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 00:35:46.957974 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 00:35:46.957985 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 00:35:47.118752 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jul 03 00:35:47.135206 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 00:35:47.135323 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 00:35:47.135527 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 00:35:47.135537 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 00:35:47.337001 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jul 03 00:35:47.358510 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 00:35:47.358608 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 00:35:47.358916 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 00:35:47.358931 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 00:35:51.701540 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jul 03 00:35:51.720846 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 00:35:51.720970 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 00:35:51.721243 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 00:35:51.721255 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 00:35:56.957812 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jul 03 00:35:56.977508 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 00:35:56.977620 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 00:35:56.977844 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 00:35:56.977854 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 00:35:59.581049 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jul 03 00:35:59.597852 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 00:35:59.597975 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 00:35:59.598243 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 00:35:59.598265 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 02:08:50.680831 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jul 03 02:08:50.700834 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 02:08:50.701060 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 02:08:50.701499 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 02:08:50.701511 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 02:09:22.231815 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jul 03 02:09:22.257724 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 02:09:22.257869 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 02:09:22.258273 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 02:09:22.258284 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 02:09:55.503456 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jul 03 02:09:55.536129 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 02:09:55.536421 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 02:09:55.536926 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 02:09:55.536970 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 02:20:21.427528 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jul 03 02:20:21.462565 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 02:20:21.462799 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 02:20:21.463236 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 02:20:21.463249 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 02:28:01.671829 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jul 03 02:28:01.702101 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 02:28:01.702297 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 02:28:01.702667 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 02:28:01.702679 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 02:29:38.597726 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jul 03 02:29:38.631626 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 02:29:38.631816 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 02:29:38.632257 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 02:29:38.632274 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 02:30:01.527344 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jul 03 02:30:01.554876 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 02:30:01.555106 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 02:30:01.555498 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 02:30:01.555525 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 02:30:30.751651 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jul 03 02:30:30.771268 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 02:30:30.771408 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 02:30:30.771714 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 02:30:30.771726 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 02:31:16.242974 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/www/wwwroot/films] does not exist
+[Fri Jul 03 02:31:16.264046 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 02:31:16.264302 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 02:31:16.264793 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 02:31:16.264819 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 02:31:27.439509 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jul 03 02:31:27.461566 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 02:31:27.461728 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 02:31:27.462005 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 02:31:27.462016 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 02:31:51.328777 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jul 03 02:31:51.346036 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 02:31:51.346174 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 02:31:51.346425 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 02:31:51.346437 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 02:31:53.881671 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jul 03 02:31:53.907574 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 02:31:53.907704 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 02:31:53.908018 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 02:31:53.908033 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 02:34:38.817151 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jul 03 02:34:38.843908 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 02:34:38.844143 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 02:34:38.844463 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 02:34:38.844474 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Fri Jul 03 02:34:46.979653 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Fri Jul 03 02:34:46.997097 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jul 03 02:34:46.997264 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 03 02:34:46.997494 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Fri Jul 03 02:34:46.997504 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Sat Jul 04 11:36:08.507180 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/www/wwwroot/films/public] does not exist
+[Sat Jul 04 11:36:08.573540 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Jul 04 11:36:08.573950 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Sat Jul 04 11:36:08.574482 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Sat Jul 04 11:36:08.574506 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Sat Jul 04 17:41:02.309956 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/www/server/stop/public] does not exist
+[Sat Jul 04 17:41:02.359791 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Jul 04 17:41:02.360927 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Sat Jul 04 17:41:02.361292 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Sat Jul 04 17:41:02.361310 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Sat Jul 04 17:41:04.969875 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Sat Jul 04 17:41:04.988141 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Jul 04 17:41:04.988258 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Sat Jul 04 17:41:04.988669 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Sat Jul 04 17:41:04.988680 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Sat Jul 04 17:42:48.132690 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Sat Jul 04 17:42:48.156333 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Jul 04 17:42:48.156550 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Sat Jul 04 17:42:48.156907 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Sat Jul 04 17:42:48.156918 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Sat Jul 04 17:59:15.795572 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/www/server/stop/public] does not exist
+[Sat Jul 04 17:59:15.837252 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Jul 04 17:59:15.837506 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Sat Jul 04 17:59:15.837917 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Sat Jul 04 17:59:15.837929 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'
+[Sat Jul 04 17:59:21.164907 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00493: SIGUSR1 received.  Doing graceful restart
+[Sat Jul 04 17:59:21.179647 2020] [ssl:warn] [pid 11169:tid 139680212973440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Jul 04 17:59:21.179766 2020] [lbmethod_heartbeat:notice] [pid 11169:tid 139680212973440] AH02282: No slotmem from mod_heartmonitor
+[Sat Jul 04 17:59:21.180057 2020] [mpm_event:notice] [pid 11169:tid 139680212973440] AH00489: Apache/2.4.43 (Unix) OpenSSL/1.1.1b configured -- resuming normal operations
+[Sat Jul 04 17:59:21.180068 2020] [core:notice] [pid 11169:tid 139680212973440] AH00094: Command line: '/www/server/apache/bin/httpd'

@@ -1,0 +1,9 @@
+{
+    // "remote.SSH.defaultForwardedPorts": [
+    
+    // ]
+    "remote.SSH.remotePlatform": {
+        "local": "Linux"
+    },
+    "git.ignoreLegacyWarning": true
+}
